@@ -1,0 +1,8 @@
+# Ignore raw dataset
+data/raw/
+
+# Ignore virtual env
+venv/
+
+# Ignore cache
+__pycache__/
