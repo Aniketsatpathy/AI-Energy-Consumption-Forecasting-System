@@ -73,28 +73,28 @@ Random Forest	~0.47	~0.60
 ## 📊 Screenshots
 
 ### 🔹 Dashboard UI
-![Dashboard](images/Dashboard.png)
+![Dashboard](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Dashboard.png)
 
 ### 🔹 Actual vs Predicted (Dashboard View)
-![Actual vs Predicted Dashboard](images/actual_vs_predicted_dashboard.png)
+![Actual vs Predicted Dashboard](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/actual_vs_predicted_dashboard.png)
 
 ### 🔹 Actual vs Predicted (Analysis)
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/actual_vs_predicted.png)
 
 ### 🔹 Next 24 Hours Forecast
-![Next 24Hrs Forecast](images/Next_24Hrs_Forecast.png)
+![Next 24Hrs Forecast](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Next_24Hrs_Forecast.png)
 
 ### 🔹 Feature Importance Analysis
-![Feature Importance Analysis](images/Feature_importance_Analysis.png)
+![Feature Importance Analysis](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Feature_importance_Analysis.png)
 
 ### 🔹 Dataset Preview
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/dataset_preview.png)
 
 ### 🔹 Prediction Output
-![Prediction](images/Prediction.png)
+![Prediction](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Prediction.png)
 
 ### 🎥 Dashboard Demo Video
-[![Dashboard Demo](images/Dashboard.png)](images/Dashboard_Demo.mp4)
+[![Dashboard Demo](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Dashboard.png)](https://github.com/Aniketsatpathy/AI-Energy-Consumption-Forecasting-System/raw/main/images/Dashboard_Demo.mp4)
 *Click the image above to watch the dashboard demo video*
 
 
