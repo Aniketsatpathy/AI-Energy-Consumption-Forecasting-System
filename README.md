@@ -64,10 +64,11 @@ streamlit run app.py
 
 
 
-📈 Results
-Model	RMSE	R²
-Linear Regression	~0.52	~0.52
-Random Forest	~0.47	~0.60
+| Model             | RMSE  | R²    |
+| ----------------- | ----- | ----- |
+| Linear Regression | ~0.52 | ~0.52 |
+| Random Forest     | ~0.47 | ~0.60 |
+
 
 
 ## 📊 Screenshots
