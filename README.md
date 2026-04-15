@@ -70,14 +70,32 @@ Linear Regression	~0.52	~0.52
 Random Forest	~0.47	~0.60
 
 
-📊 Screenshots
+## 📊 Screenshots
 
+### 🔹 Dashboard UI
+![Dashboard](images/Dashboard.png)
 
-🔹 Dashboard UI
+### 🔹 Actual vs Predicted (Dashboard View)
+![Actual vs Predicted Dashboard](images/actual_vs_predicted_dashboard.png)
 
-🔹 Actual vs Predicted
+### 🔹 Actual vs Predicted (Analysis)
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
-🔹 Forecast Output
+### 🔹 Next 24 Hours Forecast
+![Next 24Hrs Forecast](images/Next_24Hrs_Forecast.png)
+
+### 🔹 Feature Importance Analysis
+![Feature Importance Analysis](images/Feature_importance_Analysis.png)
+
+### 🔹 Dataset Preview
+![Dataset Preview](images/dataset_preview.png)
+
+### 🔹 Prediction Output
+![Prediction](images/Prediction.png)
+
+### 🎥 Dashboard Demo Video
+[![Dashboard Demo](images/Dashboard.png)](images/Dashboard_Demo.mp4)
+*Click the image above to watch the dashboard demo video*
 
 
 
