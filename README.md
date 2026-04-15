@@ -101,6 +101,17 @@ Real-time energy monitoring system
 This project demonstrates how machine learning can be used to forecast energy consumption and simulate real-world decision-making systems.
 
 
+## Dataset
+
+The dataset is not included due to size limitations.
+
+Download it from:
+https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
+
+Place it in:
+data/raw/household_power_consumption.txt
+
+
 👨‍💻 Author
 
 Aniket
